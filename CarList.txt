@@ -1,0 +1,3 @@
+Car{mark='Citroen', model='C5', yearProduction=2008, engineCapacity=1.6, horsePower=116, doors=4, color=WHITE, prise=299}
+Car{mark='Skoda', model='Octavia', yearProduction=2016, engineCapacity=1.6, horsePower=132, doors=4, color=GREEN, prise=349}
+Car{mark='BMW', model='M5', yearProduction=2020, engineCapacity=2.0, horsePower=194, doors=4, color=BLACK, prise=499}

@@ -1,0 +1,2 @@
+Client{name='Jan', surname='Kowalski', age=50}
+Client{name='Janina', surname='Paździerz', age=75}
