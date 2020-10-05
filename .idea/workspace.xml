@@ -1,52 +1,155 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="4d6e8e9d-e24d-4825-ae99-b5093361467b" name="Default Changelist" comment="" />
+    <list default="true" id="4d6e8e9d-e24d-4825-ae99-b5093361467b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/RentCar/HibernateApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/RentCar/car/CarTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/RentCar/client/ClientTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/RentCar/converters/CarJsonConverter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/RentCar/converters/CarStoreConverter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/RentCar/converters/JsonConverter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/RentCar/rental/Rental.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/hibernate.cfg.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CarList.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CarList.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/JavaExe_1_mz_rozne/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/JavaExe_1_mz_rozne/Readme.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/JavaExe_1_mz_wyjatki/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/RentCar/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/RentCar/car/Car.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/RentCar/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/RentCar/client/Client.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/RentCar/Color.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/RentCar/car/Color.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/RentCar/IntroduceCar.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/RentCar/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/RentCar/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/JavaExe_1_mz_rozne/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/JavaExe_1_mz_wyjatki/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/Exercise_Java.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/RentCar/Car.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/RentCar/Client.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/RentCar/Color.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/RentCar/IntroduceCar.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/RentCar/Main.class" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Enum" />
-        <option value="Class" />
         <option value="Interface" />
+        <option value="Class" />
+        <option value="JUnit5 Test Class" />
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="MavenImportPreferences">
-    <option name="importingSettings">
-      <MavenImportingSettings>
-        <option name="importAutomatically" value="true" />
-      </MavenImportingSettings>
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="C:\Programowanie\Program Files\JetBrains\IntelliJ IDEA Community Edition 2020.1.1\plugins\maven\lib\maven3" />
+      </MavenGeneralSettings>
     </option>
   </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
   <component name="ProjectId" id="1e7MBsbf83cLlQ8yjPhSmNhY72Q" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="create.test.in.the.same.root" value="true" />
     <property name="extract.method.default.visibility" value="private" />
-    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/Projekty" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="settings.editor.selected.configurable" value="preferences.intentionPowerPack" />
   </component>
   <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="RentCar.rental" />
+      <recent name="RentCar.client" />
+      <recent name="RentCar.car" />
+    </key>
+    <key name="CreateBuilderDialog.RecentsKey">
+      <recent name="RentCar.rental" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Domownicy\Desktop\Zajęcia\Project\RentCarApp\src\main" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Domownicy\Desktop\Zajęcia\Project\RentCarApp\src\main" />
+      <recent name="C:\Users\Domownicy\Desktop\Zajęcia\Project\RentCarApp\src" />
+      <recent name="C:\Users\Domownicy\Desktop\Zajęcia\Project\RentCarApp\src\main\java\resources" />
       <recent name="C:\Users\lukasz.rakowiecki\IdeaProjects\Exercise_Java" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Main (2)">
-    <configuration name="CarListGenerate" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="RentCar.CarListGenerate" />
-      <module name="Exercise_Java" />
+  <component name="RunManager" selected="JUnit.ClientTest.shouldCreateRentalBase">
+    <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="RentCar.App" />
+      <module name="RentCarApp" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="RentCar.car.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HibernateApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="RentCar.HibernateApp" />
+      <module name="RentCarApp" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="RentCar.*" />
@@ -57,54 +160,89 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="JavaExe_1_mz_rozne.Main" />
-      <module name="Exercise_Java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="JavaExe_1_mz_rozne.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration default="true" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="RentCar.Main" />
-      <module name="Exercise_Java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="RentCar.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="JavaExe_1_mz_wyjatki.Main" />
-      <module name="Exercise_Java" />
+    <configuration name="CarTest" type="JUnit" factoryName="JUnit" nameIsGenerated="true">
+      <module name="RentCarApp" />
+      <useClassPathOnly />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="JavaExe_1_mz_wyjatki.*" />
+          <option name="PATTERN" value="RentCar.car.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="RentCar.car" />
+      <option name="MAIN_CLASS_NAME" value="RentCar.car.CarTest" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="PARAMETERS" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CarTest.shouldCreateBase" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="RentCarApp" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="RentCar.car.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="RentCar.car" />
+      <option name="MAIN_CLASS_NAME" value="RentCar.car.CarTest" />
+      <option name="METHOD_NAME" value="shouldCreateBase" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ClientTest.shouldCreateClientBase" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="RentCarApp" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="RentCar.client.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="RentCar.client" />
+      <option name="MAIN_CLASS_NAME" value="RentCar.client.ClientTest" />
+      <option name="METHOD_NAME" value="shouldCreateClientBase" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ClientTest.shouldCreateRentalBase" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="RentCarApp" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="RentCar.client.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="RentCar.client" />
+      <option name="MAIN_CLASS_NAME" value="RentCar.client.ClientTest" />
+      <option name="METHOD_NAME" value="shouldCreateRentalBase" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Main (2)" />
-        <item itemvalue="Application.CarListGenerate" />
-        <item itemvalue="Application.Main (1)" />
-        <item itemvalue="Application.Main" />
+        <item itemvalue="JUnit.ClientTest.shouldCreateRentalBase" />
+        <item itemvalue="JUnit.ClientTest.shouldCreateClientBase" />
+        <item itemvalue="JUnit.CarTest.shouldCreateBase" />
+        <item itemvalue="Application.HibernateApp" />
+        <item itemvalue="Application.App" />
       </list>
     </recent_temporary>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -118,7 +256,31 @@
     </task>
     <servers />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
   <component name="WindowStateProjectService">
+    <state x="351" y="63" width="814" height="728" key="#Intentions" timestamp="1601915915631">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="351" y="63" width="814" height="728" key="#Intentions/0.0.1536.864@0.0.1536.864" timestamp="1601915915631" />
+    <state x="470" y="34" key="#Main" timestamp="1594052333126">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="470" y="34" key="#Main/0.0.1536.864@0.0.1536.864" timestamp="1594052333126" />
+    <state x="470" y="34" key="#Main_(2)" timestamp="1594052189163">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="470" y="34" key="#Main_(2)/0.0.1536.864@0.0.1536.864" timestamp="1594052189163" />
     <state x="2472" y="176" key="#Notifications" timestamp="1593668178869">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
@@ -127,50 +289,117 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="552" y="181" key="#Plugins/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1594038460398" />
-    <state x="2654" y="226" key="#com.intellij.ide.util.MemberChooser" timestamp="1594043040343">
-      <screen x="1920" y="0" width="1920" height="1040" />
+    <state x="219" y="57" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1594052382490">
+      <screen x="0" y="0" width="1536" height="864" />
     </state>
+    <state x="219" y="57" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.864@0.0.1536.864" timestamp="1594052382490" />
+    <state x="587" y="99" width="388" height="685" key="#com.intellij.ide.util.MemberChooser" timestamp="1601927773268">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="587" y="99" width="388" height="685" key="#com.intellij.ide.util.MemberChooser/0.0.1536.864@0.0.1536.864" timestamp="1601927773268" />
     <state x="2654" y="226" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1594043040343" />
+    <state x="446" y="143" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1595969103524">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="446" y="143" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1536.864@0.0.1536.864" timestamp="1595969103524" />
+    <state x="545" y="161" key="FileChooserDialogImpl" timestamp="1595969842348">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="545" y="161" key="FileChooserDialogImpl/0.0.1536.864@0.0.1536.864" timestamp="1595969842348" />
     <state x="2706" y="437" key="Github.CreateGistDialog" timestamp="1594043579881">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
     <state x="2706" y="437" key="Github.CreateGistDialog/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1594043579881" />
-    <state width="1877" height="280" key="GridCell.Tab.0.bottom" timestamp="1594043205363">
-      <screen x="1920" y="0" width="1920" height="1040" />
+    <state width="1434" height="193" key="GridCell.Tab.0.bottom" timestamp="1601916950805">
+      <screen x="0" y="0" width="1536" height="864" />
     </state>
+    <state width="1434" height="193" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1601916950805" />
     <state width="1877" height="280" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1594043205363" />
-    <state width="1877" height="280" key="GridCell.Tab.0.center" timestamp="1594043205362">
-      <screen x="1920" y="0" width="1920" height="1040" />
+    <state width="1434" height="193" key="GridCell.Tab.0.center" timestamp="1601916950805">
+      <screen x="0" y="0" width="1536" height="864" />
     </state>
+    <state width="1434" height="193" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1601916950805" />
     <state width="1877" height="280" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1594043205362" />
-    <state width="1877" height="280" key="GridCell.Tab.0.left" timestamp="1594043205362">
-      <screen x="1920" y="0" width="1920" height="1040" />
+    <state width="1434" height="193" key="GridCell.Tab.0.left" timestamp="1601916950804">
+      <screen x="0" y="0" width="1536" height="864" />
     </state>
+    <state width="1434" height="193" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1601916950804" />
     <state width="1877" height="280" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1594043205362" />
-    <state width="1877" height="280" key="GridCell.Tab.0.right" timestamp="1594043205363">
-      <screen x="1920" y="0" width="1920" height="1040" />
+    <state width="1434" height="193" key="GridCell.Tab.0.right" timestamp="1601916950805">
+      <screen x="0" y="0" width="1536" height="864" />
     </state>
+    <state width="1434" height="193" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1601916950805" />
     <state width="1877" height="280" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1594043205363" />
-    <state x="2643" y="51" key="SettingsEditor" timestamp="1593781920359">
-      <screen x="1920" y="0" width="1920" height="1040" />
+    <state width="1406" height="226" key="GridCell.Tab.1.bottom" timestamp="1595109396320">
+      <screen x="0" y="0" width="1536" height="864" />
     </state>
+    <state width="1406" height="226" key="GridCell.Tab.1.bottom/0.0.1536.864@0.0.1536.864" timestamp="1595109396320" />
+    <state width="1406" height="226" key="GridCell.Tab.1.center" timestamp="1595109396320">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1406" height="226" key="GridCell.Tab.1.center/0.0.1536.864@0.0.1536.864" timestamp="1595109396320" />
+    <state width="1406" height="226" key="GridCell.Tab.1.left" timestamp="1595109396320">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1406" height="226" key="GridCell.Tab.1.left/0.0.1536.864@0.0.1536.864" timestamp="1595109396320" />
+    <state width="1406" height="226" key="GridCell.Tab.1.right" timestamp="1595109396320">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1406" height="226" key="GridCell.Tab.1.right/0.0.1536.864@0.0.1536.864" timestamp="1595109396320" />
+    <state x="345" y="141" key="IDE.errors.dialog" timestamp="1595969457771">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="345" y="141" key="IDE.errors.dialog/0.0.1536.864@0.0.1536.864" timestamp="1595969457771" />
+    <state x="295" y="61" key="Maven.ArtifactSearchDialog" timestamp="1601410237745">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="295" y="61" key="Maven.ArtifactSearchDialog/0.0.1536.864@0.0.1536.864" timestamp="1601410237745" />
+    <state x="257" y="0" key="SettingsEditor" timestamp="1601915908044">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="257" y="0" key="SettingsEditor/0.0.1536.864@0.0.1536.864" timestamp="1601915908044" />
     <state x="2643" y="51" key="SettingsEditor/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1593781920359" />
     <state x="565" y="302" key="com.intellij.ide.util.TipDialog" timestamp="1594038476590">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="565" y="302" key="com.intellij.ide.util.TipDialog/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1594038476590" />
     <state x="2485" y="302" key="com.intellij.ide.util.TipDialog/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1594037851390" />
-    <state x="2610" y="265" key="extract.method.dialog" timestamp="1593694744863">
-      <screen x="1920" y="0" width="1920" height="1040" />
+    <state x="575" y="318" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1595108949802">
+      <screen x="0" y="0" width="1536" height="864" />
     </state>
+    <state x="575" y="318" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.864@0.0.1536.864" timestamp="1595108949802" />
+    <state x="523" y="0" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1601927356733">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="523" y="0" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1536.864@0.0.1536.864" timestamp="1601927356733" />
+    <state x="298" y="161" width="919" height="643" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1601410660532">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="298" y="161" width="919" height="643" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1536.864@0.0.1536.864" timestamp="1601410660532" />
+    <state x="552" y="220" key="extract.method.dialog" timestamp="1601482999841">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="552" y="220" key="extract.method.dialog/0.0.1536.864@0.0.1536.864" timestamp="1601482999841" />
     <state x="2610" y="265" key="extract.method.dialog/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1593694744863" />
-    <state x="2536" y="240" key="run.anything.popup" timestamp="1594038762085">
-      <screen x="1920" y="0" width="1920" height="1040" />
+    <state x="493" y="199" key="run.anything.popup" timestamp="1601927516008">
+      <screen x="0" y="0" width="1536" height="864" />
     </state>
+    <state x="493" y="199" key="run.anything.popup/0.0.1536.864@0.0.1536.864" timestamp="1601927516008" />
     <state x="2536" y="240" key="run.anything.popup/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1594038762085" />
-    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1594038447451">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state x="498" y="187" width="672" height="564" key="search.everywhere.popup" timestamp="1601927369602">
+      <screen x="0" y="0" width="1536" height="864" />
     </state>
+    <state x="498" y="187" width="672" height="564" key="search.everywhere.popup/0.0.1536.864@0.0.1536.864" timestamp="1601927369602" />
     <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1594038447451" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="org.hibernate.MappingException" package="org.hibernate" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
