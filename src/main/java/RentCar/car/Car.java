@@ -24,6 +24,7 @@ public class Car {
     private double engineCapacity;
     private int horsePower;
     private int doors;
+    @Enumerated(value = EnumType.STRING)
     private Color color;
     private BigDecimal price;
 

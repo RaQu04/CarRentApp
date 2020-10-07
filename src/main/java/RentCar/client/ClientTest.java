@@ -33,13 +33,13 @@ class ClientTest {
     }
 
     @Test
-    public void shouldCreateClientBase(){
+    public void shouldCreateClientBase() {
         SessionFactory sessionFactory = new Configuration()
                 .configure("hibernate.cfg.xml")
                 .addAnnotatedClass(Client.class)
                 .buildSessionFactory();
         Transaction tx = null;
-        try(Session session = sessionFactory.openSession()) {
+        try (Session session = sessionFactory.openSession()) {
             tx = session.beginTransaction();
             System.out.println("Connect");
 
@@ -61,18 +61,15 @@ class ClientTest {
                 .buildSessionFactory();
 
         Transaction tx = null;
-        try(Session session = sessionFactory.openSession()){
+        try (Session session = sessionFactory.openSession()) {
             tx = session.beginTransaction();
             session.persist(CLIENT);
             session.persist(CAR);
 
-            Rental rental = new Rental();
-            rental.setCar(CAR);
-            rental.setClient(CLIENT);
+            session.persist(RENTAL);
 
-            session.persist(rental);
-
-
+            RENTAL.setCar(CAR);
+            RENTAL.setClient(CLIENT);
 
             tx.commit();
 

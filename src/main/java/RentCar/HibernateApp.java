@@ -2,6 +2,8 @@ package RentCar;
 
 import RentCar.car.Car;
 import RentCar.car.Color;
+import RentCar.client.Client;
+import org.hibernate.HibernateException;
 import org.hibernate.Session;
 import org.hibernate.SessionFactory;
 import org.hibernate.Transaction;
@@ -9,9 +11,12 @@ import org.hibernate.cfg.Configuration;
 
 import java.math.BigDecimal;
 import java.util.Arrays;
+import java.util.logging.Logger;
 
 public class HibernateApp {
+    public static Logger logger;
     static SessionFactory sessionFactory;
+
     public static void main(String[] args) {
 
 
@@ -32,7 +37,6 @@ public class HibernateApp {
             System.out.println("Connect");
 
 
-
             Car car = new Car();
             car.setMark("Audi");
             car.setModel("A6");
@@ -42,8 +46,6 @@ public class HibernateApp {
             car.setColor(Color.WHITE);
             car.setEngineCapacity(196);
             session.persist(car);
-
-
 
 
             Car car1 = Car.builder()
@@ -65,5 +67,25 @@ public class HibernateApp {
             System.out.println(ex.getMessage());
             throw ex;
         }
+    }
+
+    public static void addClientToBase(Client client) {
+        SessionFactory sessionFactory = new Configuration()
+                .configure("hibernate.cfg.xml")
+                .addAnnotatedClass(Client.class)
+                .buildSessionFactory();
+        Transaction tx = null;
+        try (Session session = sessionFactory.openSession()) {
+            tx = session.beginTransaction();
+            System.out.println("Connect");
+
+
+            session.persist(client);
+
+            tx.commit();
+        } catch (HibernateException ex) {
+            logger.info(ex.getMessage());
+        }
+
     }
 }
